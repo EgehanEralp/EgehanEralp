@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, NLP, Spring Framework**
 
-- 💬 Ask me about **Knime, Python**
+- 💬 Ask me about **Python, KNIME**
 
 - 📫 How to reach me **egehaneralp@outlook.com**
 
