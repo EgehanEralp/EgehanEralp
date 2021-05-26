@@ -20,7 +20,7 @@
 </p>
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egehaneralp&layout=compact&hide=html&theme=tokyonight" alt="egehaneralp" /></p>
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egehaneralp&show_icons=true" alt="egehaneralp" /></p>
--->
+
 
