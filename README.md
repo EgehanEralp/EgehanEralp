@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering**
 
-- :mortar_board: Education Istanbul University - BSC. Computer Engineering | 4th Grade
+- :mortar_board: Education Istanbul University - BSC. Computer Engineering (1st in the Department)
 
 - :earth_americas: My site www.egehaneralp.com
 
