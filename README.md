@@ -11,7 +11,7 @@
 
 - :earth_americas: My site www.egehaneralp.com
 
-- 📫 How to reach me **egehaneralp@outlook.com**
+- 📫 How to reach me **egehaneralp@gmail.com**
 
 <p align="center">
 <!--
