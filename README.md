@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **AWS, NLP, Spring Framework**
 
-- 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering**
+- 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering, Data Security & Privacy**
 
-- :mortar_board: Education Istanbul University - BSC. Computer Engineering (1st in the Department)
+- :mortar_board: MSc. Computer Science and Engineering - Koç University
+
+- :mortar_board: BSc. Computer Engineering - Istanbul University (Rank:1st)
 
 - :earth_americas: My site www.egehaneralp.com
 
