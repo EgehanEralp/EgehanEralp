@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egehaneralp" alt="egehaneralp" /> </p>
 
-- 🌱 I’m currently learning **AWS, NLP, Spring Framework**
-
 - 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering, Data Security & Privacy**
 
 - :mortar_board: MSc. Computer Science and Engineering - Koç University
