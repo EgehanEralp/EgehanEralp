@@ -1,4 +1,4 @@
-<h3 align="center">Data Scientist @ Arcelik Global</h3>
+<h3 align="center">ML Engineer @ Arcelik Global</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egehaneralp" alt="egehaneralp" /> </p>
 
