@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egehaneralp" alt="egehaneralp" /> </p>
 
-- 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering, Data Security & Privacy**
+- 💬 Ask me about **NLP, LLMs, RAG, Core DS, Time Series, Deep Learning, Data Security & Privacy**
 
-- :mortar_board: MSc. Computer Science and Engineering - Koç University
+- :mortar_board: PhD. Computer Science and Engineering - Koç University
 
-- :mortar_board: BSc. Computer Engineering - Istanbul University (Rank:1st)
+- :mortar_board: MSc. Computer Science and Engineering - Koç University (Rank:1st 🥇)
+
+- :mortar_board: BSc. Computer Engineering - Istanbul University (Rank:1st 🥇)
 
 - :earth_americas: My site www.egehaneralp.com
 
